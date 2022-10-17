@@ -1,0 +1,54 @@
+.cardOuter {
+  margin: 5px;
+  padding: 40px 20px 20px;
+  background-color: #d8cca3;
+  /* border: 1px solid black; */
+  border-radius: 5px;
+  display: flex;
+}
+
+.cardDiv {
+  background-color: #d8cca3;
+  position: relative;
+  overflow: hidden;
+}
+
+.cardDiv p {
+  text-align: center;
+  font-size: 10px;
+  opacity: 1;
+  color: white;
+}
+
+img:hover {
+  filter: grayscale(0%);
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+img {
+  filter: grayscale(100%);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+h2 {
+  padding: 5px;
+}
+.pDiv {
+  padding: 15px;
+  border-radius: 5px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  transition: transform 0.7s ease-in-out;
+  z-index: 1;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  transform: translateY(100%);
+}
+
+.cardDiv:hover .pDiv {
+  transform: translateY(-3%);
+}

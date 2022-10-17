@@ -1,0 +1,27 @@
+.contentDiv {
+  justify-content: center;
+  background-color: #eae7af;
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+}
+
+@media only screen and (max-width: 1500px) {
+  .contentDiv {
+    grid-template-columns: 300px 300px 300px 300px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .contentDiv {
+    grid-template-columns: 300px 300px 300px;
+  }
+}
+@media only screen and (max-width: 896px) {
+  .contentDiv {
+    grid-template-columns: 300px 300px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .contentDiv {
+    grid-template-columns: 300px;
+  }
+}

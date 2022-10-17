@@ -1,0 +1,9 @@
+.headerDiv {
+  text-align: center;
+  padding: 30px;
+  background-color: #eae7af;
+}
+.header {
+  font-family: headerNav;
+  font-size: 3rem;
+}
