@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-
-# Getting Started with Create React App2
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-=======
-
-> > > > > > > 6d5c5fc123f0e50eaa26a39e9d665b7247caf9d8
-
 ## Available Scripts
 
 In the project directory, you can run:
