@@ -1,18 +1,18 @@
 ## react-tour-places
 
-![Animation](https://github.com/bbluechip/react-album-app/blob/master/Albums.gif)
+![Animation](https://github.com/bbluechip/react-tour-places/blob/master/Tour%20Places.gif)
 
-👉[Click here to see the page](https://react-album-app.vercel.app/)
+👉[Click here to see the page](https://react-tour-places-ten.vercel.app/)
 
 ## Used in this project
-👉 Create react app, Reactjs, useState hooks, button toggle via react etc.
+👉 Create react app, Reactjs, jsx, mapping component, card component etc.
 
-👉 CSS via scss etc.
+👉 CSS etc.
 
 👉 Github & Git commands (push, pull, commit, add etc.)
 
 ## Description
-Made this website to implement my useState knowledge. And practicing them. Also learn button toggle.
+Made this website to improve my react knowledge.
 
 # Getting Started with Create React App
 clone repository to your own local file and
